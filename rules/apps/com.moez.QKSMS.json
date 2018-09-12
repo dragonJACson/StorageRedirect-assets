@@ -1,0 +1,17 @@
+{
+  "package": "com.moez.QKSMS",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "Luke Yue"
+  ],
+  "observers": [
+    {
+      "id": "app_backup",
+      "source": "QKSMS",
+      "target": "Documents/QKSMS",
+      "description": "app_backup",
+      "allow_child": true
+    }
+  ]
+}
